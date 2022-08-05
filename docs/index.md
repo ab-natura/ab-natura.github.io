@@ -12,7 +12,7 @@ Amante della natura a 360 gradi. Sempre pronto ad imparare qualcosa.
 
 Qui inserirò poche informazioni carine.
 
-![Sono Macchia di Merlot](docs/MdM.png)
+![Sono Macchia di Merlot](MdM.png)
 
 Lista della spesa:
 
