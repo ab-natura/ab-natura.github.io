@@ -28,7 +28,7 @@ Frammento di poesia
 
 > Morre lentamente quem não troca de idéias, 
 > não troca de discurso, 
-> evita as próprias contradições.
+> evita as próprias contradições. <
 						(Martha Medeiros)
 						
 						
